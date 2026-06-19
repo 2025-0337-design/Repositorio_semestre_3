@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Owner\\Desktop\\programas\\Examen_filtro\\Solution_examen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20BC6433-2DD6-4463-AF11-07A5727DFA24}|Examen_filtro\\Examen_filtro.csproj|c:\\users\\owner\\desktop\\programas\\examen_filtro\\solution_examen\\examen_filtro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20BC6433-2DD6-4463-AF11-07A5727DFA24}|Examen_filtro\\Examen_filtro.csproj|solutionrelative:examen_filtro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Desktop\\programas\\Examen_filtro\\Solution_examen\\Examen_filtro\\Program.cs",
+              "RelativeDocumentMoniker": "Examen_filtro\\Program.cs",
+              "ToolTip": "C:\\Users\\Owner\\Desktop\\programas\\Examen_filtro\\Solution_examen\\Examen_filtro\\Program.cs",
+              "RelativeToolTip": "Examen_filtro\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T18:33:36.362Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
