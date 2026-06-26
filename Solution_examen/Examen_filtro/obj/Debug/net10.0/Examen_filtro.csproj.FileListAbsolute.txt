@@ -1,0 +1,14 @@
+C:\Users\Owner\Desktop\programas\Examen_filtro\Solution_examen\Examen_filtro\bin\Debug\net10.0\Examen_filtro.exe
+C:\Users\Owner\Desktop\programas\Examen_filtro\Solution_examen\Examen_filtro\bin\Debug\net10.0\Examen_filtro.deps.json
+C:\Users\Owner\Desktop\programas\Examen_filtro\Solution_examen\Examen_filtro\bin\Debug\net10.0\Examen_filtro.runtimeconfig.json
+C:\Users\Owner\Desktop\programas\Examen_filtro\Solution_examen\Examen_filtro\bin\Debug\net10.0\Examen_filtro.dll
+C:\Users\Owner\Desktop\programas\Examen_filtro\Solution_examen\Examen_filtro\bin\Debug\net10.0\Examen_filtro.pdb
+C:\Users\Owner\Desktop\programas\Examen_filtro\Solution_examen\Examen_filtro\obj\Debug\net10.0\Examen_filtro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\programas\Examen_filtro\Solution_examen\Examen_filtro\obj\Debug\net10.0\Examen_filtro.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\programas\Examen_filtro\Solution_examen\Examen_filtro\obj\Debug\net10.0\Examen_filtro.AssemblyInfo.cs
+C:\Users\Owner\Desktop\programas\Examen_filtro\Solution_examen\Examen_filtro\obj\Debug\net10.0\Examen_filtro.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\programas\Examen_filtro\Solution_examen\Examen_filtro\obj\Debug\net10.0\Examen_filtro.dll
+C:\Users\Owner\Desktop\programas\Examen_filtro\Solution_examen\Examen_filtro\obj\Debug\net10.0\refint\Examen_filtro.dll
+C:\Users\Owner\Desktop\programas\Examen_filtro\Solution_examen\Examen_filtro\obj\Debug\net10.0\Examen_filtro.pdb
+C:\Users\Owner\Desktop\programas\Examen_filtro\Solution_examen\Examen_filtro\obj\Debug\net10.0\Examen_filtro.genruntimeconfig.cache
+C:\Users\Owner\Desktop\programas\Examen_filtro\Solution_examen\Examen_filtro\obj\Debug\net10.0\ref\Examen_filtro.dll
