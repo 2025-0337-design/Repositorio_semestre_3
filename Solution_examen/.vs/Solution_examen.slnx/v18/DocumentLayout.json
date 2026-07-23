@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Owner\\Desktop\\programas\\Examen_filtro\\Solution_examen\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{20BC6433-2DD6-4463-AF11-07A5727DFA24}|Examen_filtro\\Examen_filtro.csproj|c:\\users\\owner\\desktop\\programas\\examen_filtro\\solution_examen\\examen_filtro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20BC6433-2DD6-4463-AF11-07A5727DFA24}|Examen_filtro\\Examen_filtro.csproj|solutionrelative:examen_filtro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BBB0CB24-1683-C224-F6E4-44452D089B22}|Examen_filtro\\Examen_filtro.csproj|c:\\users\\owner\\desktop\\programas\\examen_filtro\\solution_examen\\examen_filtro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBB0CB24-1683-C224-F6E4-44452D089B22}|Examen_filtro\\Examen_filtro.csproj|solutionrelative:examen_filtro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "Examen_filtro\\Program.cs",
               "ToolTip": "C:\\Users\\Owner\\Desktop\\programas\\Examen_filtro\\Solution_examen\\Examen_filtro\\Program.cs",
               "RelativeToolTip": "Examen_filtro\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-19T18:33:36.362Z",
               "EditorCaption": ""
