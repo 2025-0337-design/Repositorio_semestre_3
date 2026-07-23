@@ -1,0 +1,12 @@
+<Solution>
+  <Project Path="1.Contador_simple/1.Contador_simple.csproj" />
+  <Project Path="10.Frecuencia_de_valores/10.Frecuencia_de_valores.csproj" />
+  <Project Path="2.Suma_de_números/2.Suma_de_números.csproj" />
+  <Project Path="3.Tabla_de_multiplicar/3.Tabla_de_multiplicar.csproj" />
+  <Project Path="4.Números_pares/4.Números_pares.csproj" />
+  <Project Path="5.Promedio_de_notas/5.Promedio_de_notas.csproj" />
+  <Project Path="6.Arreglo_de_números/6.Arreglo_de_números.csproj" />
+  <Project Path="7.Mayor_y_menor_en_un_arreglo/7.Mayor_y_menor_en_un_arreglo.csproj" />
+  <Project Path="8.Contador_de_positivos,negativos_y_ceros/8.Contador_de_positivos,negativos_y_ceros.csproj" />
+  <Project Path="9.Búsqueda_en_un_arreglo/9.Búsqueda_en_un_arreglo.csproj" />
+</Solution>
